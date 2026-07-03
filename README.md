@@ -1,81 +1,77 @@
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Naveenkumar S
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />Hi I'm Ranjithkumar A
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://ranjithak.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://naveenns0507.netlify.app/)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Naveenkumarns0507)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Naveenkumarns0507.Naveenkumarns0507)
 
+## 👨‍🎓 BCA Graduate (2025) | Aspiring Java Developer
 
-**BTech AI&DS Student**
+- 🌱 Currently learning **Java, Data Structures & Algorithms (DSA), SQL**
+- 💻 Skilled in **Java, SQL, HTML, CSS, JavaScript**
+- 🚀 Passionate about **Software Development, AI & Emerging Technologies**
+- 🔭 Looking for opportunities as a **Software Engineer / Java Developer**
+- 📚 Continuously improving problem-solving and programming skills
+- 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript**
+- 🤝 Open to collaborating on beginner-friendly open-source and web development projects
+- ⚡ Fun Fact: I enjoy learning new technologies and solving coding challenges.
 
-- 🌱 I’m currently learning **Python,C, Java, DSA**
-- 🛠️ I’m working on **AI&ML,Webdevelopment** projects
-- 💬 Ask me about **Tech**
-- 🔭 I’m interested in exploring new technologies and enhancing my coding skills
-- 📚 I’m constantly learning and looking for ways to improve 
-- ⚡ Fun fact: I love solving coding challenges and learning new programming languages
-  
+---
 
+## 📫 Connect with Me
 
-## 📫 How to Reach Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://naveenns0507.netlify.app)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar-s18/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveenkumarns0507)
 
+---
 
-## I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="50"/>
+## 💻 Tech Stack
 
-## My Codingplatforms Profile:
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ranjith_a_k?tab=activity)
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/">
-    <img src="https://github.com/Ranjith2703/DSA_LC-GFG/blob/main/gfg1.png" width="520"/>
-  </a>
+<p>
+<img width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
+<img width="48" src="https://img.icons8.com/color/48/html-5--v1.png"/>
+<img width="48" src="https://img.icons8.com/fluency/48/css3.png"/>
+<img width="48" src="https://img.icons8.com/color/48/javascript--v1.png"/>
+<img width="48" src="https://img.icons8.com/fluency/48/mysql-logo.png"/>
+<img width="48" src="https://img.icons8.com/color/48/git.png"/>
+<img width="48" src="https://img.icons8.com/material-outlined/48/github.png"/>
+<img width="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Mulish&ext=heatmap" width="520"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumarns0507&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumarns0507&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumarns0507&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
-## 📢 My Content Platforms
+## 📈 GitHub Activity Graph
 
-### 📝 **Medium Blog**
-I write about personal development, productivity, and mindset shifts on Medium.
+[![Naveenkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumarns0507&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Medium Blog](https://custom-icon-badges.demolab.com/badge/Read_My_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithtamil160)
-
-### 📱 **WhatsApp Channel**
-Daily motivation, productivity tips, and mindset insights delivered directly to your WhatsApp.
-
-[![WhatsApp Channel](https://custom-icon-badges.demolab.com/badge/Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7K9H30gcfJCnLVKI24)
-
-
-[![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=100&color=FFA116&center=true&vCenter=true&width=600&lines=Stay+Hard+%F0%9F%94%A5;One+Day+or+Day+One+%E2%8C%9B;Never+Give+Up+%F0%9F%92%AA;Die+With+Memories%2C+Not+Dreams+%F0%9F%8C%85;Discipline+%3E+Motivation+%E2%9A%A1" alt="Motivation Quotes" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;BCA+Graduate+2025;Software+Development+Enthusiast;Always+Learning+New+Technologies;Open+to+Work+🚀;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing"/>
+
 </div>
-<!--
-**Naveenkumarns0507/Naveenkumarns0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Quote
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+
+⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*
