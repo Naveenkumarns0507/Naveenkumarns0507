@@ -42,23 +42,30 @@
 
 ---
 
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naveen0507-/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/naveenkumarns)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Naveen0507-?theme=dark&font=Nunito&ext=heatmap" width="550"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumarns0507&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumarns0507&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumarns0507&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumarns0507&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumarns0507&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumarns0507&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-[![Naveenkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumarns0507&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naveenkumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumarns0507&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
