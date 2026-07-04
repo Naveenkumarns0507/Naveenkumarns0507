@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Naveenkumar S
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Naveenkumar P
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://naveenns0507.netlify.app/)
 
