@@ -48,7 +48,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/naveenkumarns)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Naveen0507-?theme=dark&font=Nunito&ext=heatmap" width="550"/>
+  <img src="https://leetcard.jacoblin.cool/NaveenNS?theme=dark&font=Nunito&ext=heatmap" width="550"/>
 </p>
 
 ---
